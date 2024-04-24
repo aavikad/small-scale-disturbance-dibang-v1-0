@@ -1,0 +1,473 @@
+plot,date,disturbance,season,year,common_name,scientific_name,family,order,trophic.level,trophic.niche,mass,stratification,trophic_niche_stratification
+F1-01,28/10/2021,pre-disturbance,pre-winter,2021-2022,Red-billed-Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,Carnivore,Invertivore,34,understorey,understorey-invertivore
+F1-01,28/10/2021,pre-disturbance,pre-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-01,28/10/2021,pre-disturbance,pre-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,Carnivore,Invertivore,10.4,sub-canopy,sub-canopy-invertivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,Carnivore,Invertivore,12,sub-canopy,sub-canopy-invertivore
+F3-01,20/11/2021,pre-disturbance,pre-winter,2021-2022,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,Carnivore,Omnivore,149.2,high-canopy,high-canopy-omnivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,Herbivore,Nectarivore,5.3,high-canopy,high-canopy-nectarivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Common Green-Magpie,Cissa chinensis,Corvidae,Passeriformes,Carnivore,Omnivore,126.6,high-canopy,high-canopy-omnivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,Carnivore,Omnivore,149.2,high-canopy,high-canopy-omnivore
+F4-01,25/11/2021,pre-disturbance,pre-winter,2021-2022,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,Carnivore,Omnivore,149.2,high-canopy,high-canopy-omnivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,Herbivore,Nectarivore,5.3,high-canopy,high-canopy-nectarivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,Carnivore,Invertivore,7,understorey,understorey-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,Carnivore,Invertivore,5,understorey,understorey-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F3-02,02/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,Carnivore,Invertivore,18.8,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Black-crowned Scimitar-Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,Carnivore,Invertivore,40,understorey,understorey-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,Carnivore,Invertivore,6.1,sub-canopy,sub-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Blue-winged Laughingthrush,Trochalopteron squamatum,Leiotrichidae,Passeriformes,Omnivore,Omnivore,84,understorey,understorey-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F4-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F4-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,Carnivore,Invertivore,12.5,sub-canopy,sub-canopy-invertivore
+F4-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F4-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,Carnivore,Invertivore,16.9,high-canopy,high-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F4-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-02,08/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,Carnivore,Invertivore,6.5,understorey,understorey-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Scaly Laughingthrush,Trochalopteron subunicolor,Leiotrichidae,Passeriformes,Carnivore,Invertivore,65.9,understorey,understorey-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,Omnivore,Invertivore,20.9,understorey,understorey-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,Carnivore,Invertivore,10.4,sub-canopy,sub-canopy-invertivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,Herbivore,Frugivore,308.5,high-canopy,high-canopy-frugivore
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F5-01,10/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Black-crowned Scimitar-Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,Carnivore,Invertivore,40,understorey,understorey-invertivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,Omnivore,Invertivore,20.9,understorey,understorey-invertivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-02,17/12/2021,pre-disturbance,pre-winter,2021-2022,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,Carnivore,Omnivore,149.2,high-canopy,high-canopy-omnivore
+F1-03,03/02/2022,pre-disturbance,post-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Collared Treepie,Dendrocitta frontalis,Corvidae,Passeriformes,Carnivore,Omnivore,100,high-canopy,high-canopy-omnivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,Omnivore,Invertivore,11.8,high-canopy,high-canopy-invertivore
+F2-03,24/02/2022,pre-disturbance,post-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F4-03,24/02/2022,pre-disturbance,post-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Himalayan Cutia,Cutia nipalensis,Leiotrichidae,Passeriformes,Carnivore,Invertivore,47.2,sub-canopy,sub-canopy-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,Carnivore,Invertivore,10.4,sub-canopy,sub-canopy-invertivore
+F3-03,25/02/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,Carnivore,Invertivore,13.3,sub-canopy,sub-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,Carnivore,Invertivore,31.6,understorey,understorey-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,Omnivore,Invertivore,11.8,high-canopy,high-canopy-invertivore
+F1-03,02/03/2022,pre-disturbance,post-winter,2021-2022,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,Herbivore,Frugivore,308.5,high-canopy,high-canopy-frugivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F5-03,05/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Common Green-Magpie,Cissa chinensis,Corvidae,Passeriformes,Carnivore,Omnivore,126.6,high-canopy,high-canopy-omnivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,Carnivore,Invertivore,9.7,understorey,understorey-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,Carnivore,Invertivore,15.8,understorey,understorey-invertivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F2-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F4-04,06/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Hair-crested Drongo,Dicrurus hottentottus,Dicruridae,Passeriformes,Carnivore,Invertivore,79.2,high-canopy,high-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,Carnivore,Invertivore,12,sub-canopy,sub-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,Omnivore,Invertivore,11.8,high-canopy,high-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,Omnivore,Invertivore,17.1,high-canopy,high-canopy-invertivore
+F3-04,07/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,Herbivore,Omnivore,344.5,understorey,understorey-omnivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,Carnivore,Invertivore,12.5,sub-canopy,sub-canopy-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,Carnivore,Invertivore,31.6,understorey,understorey-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-04,09/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Black Drongo,Dicrurus macrocercus,Dicruridae,Passeriformes,Carnivore,Invertivore,48.3,high-canopy,high-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,Carnivore,Invertivore,4.5,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.3,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,Carnivore,Invertivore,14.5,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,Carnivore,Invertivore,12.5,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,Carnivore,Invertivore,6.5,understorey,understorey-invertivore
+F5-04,13/03/2022,pre-disturbance,post-winter,2021-2022,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,Carnivore,Omnivore,149.2,high-canopy,high-canopy-omnivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,Carnivore,Invertivore,12.8,sub-canopy,sub-canopy-invertivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F3-05,01/11/2022,post-disturbance,pre-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Common Green-Magpie,Cissa chinensis,Corvidae,Passeriformes,Carnivore,Omnivore,126.6,high-canopy,high-canopy-omnivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,Omnivore,Invertivore,11.8,high-canopy,high-canopy-invertivore
+F3-06,08/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Black-crowned Scimitar-Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,Carnivore,Invertivore,40,understorey,understorey-invertivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,Carnivore,Invertivore,13.3,sub-canopy,sub-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,Herbivore,Nectarivore,5.3,high-canopy,high-canopy-nectarivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,Herbivore,Frugivore,202,high-canopy,high-canopy-frugivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,Carnivore,Invertivore,5.9,sub-canopy,sub-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,Carnivore,Invertivore,16.9,high-canopy,high-canopy-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F1-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F4-05,15/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,Carnivore,Invertivore,15.8,understorey,understorey-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,Omnivore,Invertivore,20.9,understorey,understorey-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F2-05,16/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,Carnivore,Invertivore,30.3,sub-canopy,sub-canopy-invertivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F5-05,18/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,Carnivore,Invertivore,13.3,sub-canopy,sub-canopy-invertivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,Carnivore,Invertivore,9.6,understorey,understorey-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Common Green-Magpie,Cissa chinensis,Corvidae,Passeriformes,Carnivore,Omnivore,126.6,high-canopy,high-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,Carnivore,Invertivore,14.3,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,Carnivore,Invertivore,12.5,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,Omnivore,Invertivore,20.9,understorey,understorey-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,Carnivore,Invertivore,10.4,sub-canopy,sub-canopy-invertivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F1-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F4-06,22/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,Carnivore,Invertivore,72.7,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,Carnivore,Invertivore,9,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Carnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,Carnivore,Invertivore,15.8,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,Carnivore,Invertivore,12.8,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,Omnivore,Invertivore,20.9,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,Carnivore,Invertivore,7,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,Carnivore,Invertivore,6.5,understorey,understorey-invertivore
+F2-06,23/11/2022,post-disturbance,pre-winter,2022-2023,Yellow-vented Warbler,Phylloscopus cantator,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,Herbivore,Nectarivore,5.3,high-canopy,high-canopy-nectarivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Lesser Racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,Carnivore,Invertivore,43.1,sub-canopy,sub-canopy-invertivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F5-06,26/11/2022,post-disturbance,pre-winter,2022-2023,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,Carnivore,Invertivore,31.6,understorey,understorey-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,Carnivore,Invertivore,14.3,sub-canopy,sub-canopy-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,Omnivore,Invertivore,17.1,high-canopy,high-canopy-invertivore
+F3-07,04/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,Carnivore,Invertivore,6.1,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Common Green-Magpie,Cissa chinensis,Corvidae,Passeriformes,Carnivore,Omnivore,126.6,high-canopy,high-canopy-omnivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,Carnivore,Invertivore,9,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,Carnivore,Invertivore,12.8,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,Carnivore,Invertivore,30.3,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,Carnivore,Invertivore,80.3,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,Carnivore,Invertivore,4.8,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F1-07,05/03/2023,post-disturbance,post-winter,2022-2023,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,Carnivore,Invertivore,18.8,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,Carnivore,Invertivore,6.1,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,Carnivore,Invertivore,30.3,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,Carnivore,Invertivore,5,understorey,understorey-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,Omnivore,Invertivore,17.1,high-canopy,high-canopy-invertivore
+F5-07,09/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,Carnivore,Invertivore,4.5,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,Carnivore,Invertivore,12.8,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,Carnivore,Invertivore,14.3,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,Carnivore,Invertivore,4.8,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,Carnivore,Invertivore,16.9,high-canopy,high-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,Omnivore,Invertivore,11.8,high-canopy,high-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F2-07,10/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F4-07,10/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,Carnivore,Invertivore,6.5,understorey,understorey-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Bar-winged Flycatcher-shrike,Hemipus picatus,Vangidae,Passeriformes,Carnivore,Invertivore,9,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,Carnivore,Omnivore,158,sub-canopy,sub-canopy-omnivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,Omnivore,Omnivore,32.5,high-canopy,high-canopy-omnivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,Carnivore,Invertivore,80.3,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Shikra,Accipiter badius,Accipitridae,Accipitriformes,Carnivore,Vertivore,131.2,sub-canopy,sub-canopy-vertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F3-08,13/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,Carnivore,Invertivore,132,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,Carnivore,Invertivore,13.3,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,Carnivore,Invertivore,9.6,understorey,understorey-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,Carnivore,Invertivore,9,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,Carnivore,Invertivore,14.5,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,high-canopy,high-canopy-omnivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,Herbivore,Frugivore,308.5,high-canopy,high-canopy-frugivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Striated Laughingthrush,Grammatoptila striata,Leiothrichidae,Passeriformes,Omnivore,Invertivore,92,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,Carnivore,Invertivore,16.9,high-canopy,high-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F1-08,14/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.1,high-canopy,high-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,Carnivore,Invertivore,7.6,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Chestnut-crowned Laughingthrush,Trochalopteron erythrocephalum,Leiotrichidae,Passeriformes,Omnivore,Invertivore,71.7,understorey,understorey-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,Carnivore,Invertivore,9,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,Omnivore,Nectarivore,6.9,high-canopy,high-canopy-nectarivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,Omnivore,Omnivore,102.7,high-canopy,high-canopy-omnivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,Carnivore,Invertivore,15.8,understorey,understorey-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,Carnivore,Invertivore,4.9,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,Omnivore,Invertivore,15.8,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F4-08,17/03/2023,post-disturbance,post-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F4-08,17/03/2023,post-disturbance,post-winter,2022-2023,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,Carnivore,Invertivore,80.3,sub-canopy,sub-canopy-invertivore
+F4-08,17/03/2023,post-disturbance,post-winter,2022-2023,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,Carnivore,Invertivore,12.5,sub-canopy,sub-canopy-invertivore
+F4-08,17/03/2023,post-disturbance,post-winter,2022-2023,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.6,high-canopy,high-canopy-omnivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,40.4,understorey,understorey-aquatic predator
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,Carnivore,Invertivore,123.4,understorey,understorey-invertivore
+F4-08,17/03/2023,post-disturbance,post-winter,2022-2023,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,Carnivore,Invertivore,11,understorey,understorey-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,Omnivore,Invertivore,17.1,high-canopy,high-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F2-08,17/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,Carnivore,Invertivore,6.5,understorey,understorey-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,Carnivore,Invertivore,37.6,high-canopy,high-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,Herbivore,Frugivore,51.8,high-canopy,high-canopy-frugivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,Herbivore,Nectarivore,5.3,high-canopy,high-canopy-nectarivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,Carnivore,Invertivore,5.3,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,Herbivore,Omnivore,5.7,high-canopy,high-canopy-omnivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.3,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,Carnivore,Invertivore,6.9,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,Carnivore,Invertivore,12.8,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,Omnivore,Omnivore,32.3,sub-canopy,sub-canopy-omnivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,Carnivore,Invertivore,12,understorey,understorey-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Rufous-chinned Laughingthrush,Ianthocincla rufogularis,Leiothrichidae,Passeriformes,Omnivore,Invertivore,62.8,understorey,understorey-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,Carnivore,Invertivore,4.8,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,Carnivore,Aquatic predator,31,understorey,understorey-aquatic predator
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,Carnivore,Invertivore,12.9,sub-canopy,sub-canopy-invertivore
+F5-08,18/03/2023,post-disturbance,post-winter,2022-2023,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,Carnivore,Invertivore,6,sub-canopy,sub-canopy-invertivore
